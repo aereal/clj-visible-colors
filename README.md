@@ -1,14 +1,15 @@
 # clj-visible-colors
 
-A Clojure library designed to ... well, that part is up to you.
+Check the colors' visibilities.
 
 ## Usage
 
-FIXME
+TBD
+
+## See also
+
+http://www.w3.org/TR/AERT#color-contrast
 
 ## License
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+cf. LICENSE
